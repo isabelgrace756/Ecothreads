@@ -1,0 +1,50 @@
+Red T-shirt, Cotton
+Blue Hoodie, Polyester
+Green Shorts, Hemp
+Yellow Dress, Bamboo
+Black Jacket, Cotton
+White Skirt, Polyester
+Purple Blouse, Hemp
+Orange Sweatpants, Bamboo
+Gray Tank Top, Cotton
+Pink Cardigan, Polyester
+Teal Scarf, Hemp
+Maroon Hat, Bamboo
+Beige Sweater, Cotton
+Navy Jeans, Polyester
+Olive Cargo Pants, Hemp
+Turquoise Crop Top, Bamboo
+Coral Maxi Dress, Cotton
+Brown Vest, Polyester
+Mint Polo Shirt, Hemp
+Gold Kimono, Bamboo
+Silver Windbreaker, Cotton
+Lavender Romper, Polyester
+Charcoal Overalls, Hemp
+Peach Tunic, Bamboo
+Cyan Leggings, Cotton
+Magenta Tracksuit, Polyester
+Crimson Beanie, Hemp
+Ivory Coat, Bamboo
+Khaki Chinos, Cotton
+Plum Jumpsuit, Polyester
+Mustard Poncho, Hemp
+Sky Blue Hoodie, Bamboo
+Emerald Blazer, Cotton
+Amber Turtleneck, Polyester
+Sapphire Shorts, Hemp
+Rose Bomber Jacket, Bamboo
+Indigo Shirt, Cotton
+Fuchsia Sundress, Polyester
+Mint Green Sweatshirt, Hemp
+Graphite Jeans, Bamboo
+Violet Crop Jacket, Cotton
+Periwinkle Tee, Polyester
+Lemon Lounge Pants, Hemp
+Apricot Blouse, Bamboo
+Slate Button-Up, Cotton
+Blush Wrap Dress, Polyester
+Jade Pajamas, Hemp
+Steel Gray Trench Coat, Bamboo
+Brick Red Joggers, Cotton
+Denim Blue Vest, Polyester
